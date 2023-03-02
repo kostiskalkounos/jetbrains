@@ -6,7 +6,7 @@
     "accentColor": "#568AF2",
     "backgroundColor": "#1f2329",
     "backgroundColor2": "#282c34",
-    "backgroundColor3": "backgroundColor2",
+    "backgroundColor3": "#282c34",
     "backgroundColor4": "#3d424b",
     "infoForeground": "#7e8491",
     "foregroundColor": "#abb2bf",
@@ -49,27 +49,6 @@
       "pressedBackground": "backgroundColor2",
       "pressedBorderColor": "backgroundColor"
     },
-    "BookmarkIcon.background": "#d9a343",
-    "BookmarkMnemonicAssigned": {
-      "foreground": "#ffffff",
-      "background": "#4d78cc",
-      "borderColor": "#4d78cc"
-    },
-    "BookmarkMnemonicAvailable": {
-      "borderColor": "backgroundColor",
-      "foreground": "#a0a7b4",
-      "background": "backgroundColor3"
-    },
-    "BookmarkMnemonicCurrent": {
-      "borderColor": "accentColor",
-      "foreground": "#a0a7b4",
-      "background": "#323844"
-    },
-    "BookmarkMnemonicIcon": {
-      "foreground": "#a0a7b4",
-      "background": "backgroundColor3",
-      "borderColor": "accentColor"
-    },
     "Button": {
       "foreground": "#a0a7b4",
       "startBackground": "backgroundColor2",
@@ -104,7 +83,6 @@
     },
     "ComboPopup.border": "1,1,1,1,2d3137",
     "CompletionPopup": {
-      "background": "backgroundColor",
       "selectionBackground": "backgroundColor2",
       "matchForeground": "accentColor"
     },
@@ -130,8 +108,7 @@
     },
     "DragAndDrop": {
       "areaForeground": "foregroundColor",
-      "areaBackground": "#323844",
-      "areaBorderColor": "backgroundColor"
+      "areaBackground": "#323844"
     },
     "Editor": {
       "background": "backgroundColor",
@@ -165,11 +142,6 @@
       "infoForeground": "infoForeground",
       "successForeground": "#89ca78"
     },
-    "Lesson": {
-      "Tooltip.background": "backgroundColor3",
-      "Tooltip.spanBackground": "accentColor",
-      "Tooltip.foreground": "#ffffff"
-    },
     "Link": {
       "activeForeground": "#6494ed",
       "hoverForeground": "#6494ed",
@@ -179,10 +151,6 @@
     "List": {
       "selectionBackground": "backgroundColor2",
       "selectionForeground": "#ffffff"
-    },
-    "MainToolbar": {
-      "inactiveBackground": "backgroundColor",
-      "background": "backgroundColor"
     },
     "Notification": {
       "background": "notificationBackground",
@@ -233,8 +201,7 @@
         "updateBorderColor": "accentColor"
       },
       "SearchField": {
-        "background": "backgroundColor",
-        "borderColor": "backgroundColor"
+        "background": "backgroundColor"
       },
       "SectionHeader.background": "backgroundColor2",
       "Tab": {
@@ -289,7 +256,6 @@
       "errorForeground": "#e06c75"
     },
     "Settings.Spotlight.borderColor": "accentColor",
-    "StatusBar.background": "baseBackground",
     "TabbedPane": {
       "underlineColor": "backgroundColor2",
       "contentAreaColor": "backgroundColor2",
@@ -344,7 +310,6 @@
       "HeaderTab": {
         "hoverBackground": "#323844",
         "hoverInactiveBackground": "backgroundColor3",
-        "selectedBackground": "#323844",
         "selectedInactiveBackground": "backgroundColor3"
       }
     },
@@ -355,7 +320,6 @@
     "Tree": {
       "selectionBackground": "selectionBackground",
       "modifiedItemForeground": "accentColor",
-      "selectionInactiveForeground": "foregroundColor",
       "rowHeight": 20
     },
     "ValidationTooltip": {
@@ -389,12 +353,12 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "backgroundColor",
+      "Checkbox.Background.Default.Dark": "#1f2329",
       "Checkbox.Border.Default.Dark": "#414855",
-      "Checkbox.Foreground.Selected.Dark": "foregroundColor",
-      "Checkbox.Focus.Wide.Dark": "accentColor",
-      "Checkbox.Focus.Thin.Default.Dark": "accentColor",
-      "Checkbox.Focus.Thin.Selected.Dark": "accentColor",
+      "Checkbox.Foreground.Selected.Dark": "#abb2bf",
+      "Checkbox.Focus.Wide.Dark": "#568AF2",
+      "Checkbox.Focus.Thin.Default.Dark": "#568AF2",
+      "Checkbox.Focus.Thin.Selected.Dark": "#568AF2",
       "Checkbox.Background.Disabled.Dark": "#21252b",
       "Checkbox.Border.Disabled.Dark": "#2c313a",
       "Checkbox.Foreground.Disabled.Dark": "#5c6370"
