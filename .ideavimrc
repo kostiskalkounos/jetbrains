@@ -9,6 +9,7 @@ set ideajoin
 set ideastatusicon=disabled
 set ignorecase
 set incsearch
+set noshowmode
 set notimeout
 set number relativenumber
 set showcmd
