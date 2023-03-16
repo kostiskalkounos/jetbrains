@@ -211,7 +211,7 @@
       }
     },
     "Popup": {
-      "background": "backgroundColor2",
+      "background": "backgroundColor",
       "paintBorder": false,
       "borderColor": "backgroundColor2",
       "Toolbar.borderColor": "backgroundColor3",
