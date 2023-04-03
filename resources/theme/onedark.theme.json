@@ -102,9 +102,10 @@
       "foreground": "foregroundColor"
     },
     "DefaultTabs": {
-      "underlineColor": "backgroundColor2",
-      "inactiveUnderlineColor": "backgroundColor2",
-      "hoverBackground": "backgroundColor2"
+      "hoverBackground": "backgroundColor2",
+      "inactiveUnderlineColor": "backgroundColor",
+      "underlineColor": "#888fce",
+      "underlineHeight": "1"
     },
     "DragAndDrop": {
       "areaForeground": "foregroundColor",
@@ -119,10 +120,6 @@
       "shortcutForeground": "accentColor"
     },
     "EditorPane.inactiveBackground": "backgroundColor",
-    "EditorTabs": {
-      "underlineHeight": 0,
-      "underlinedTabBackground": "#323844"
-    },
     "FileColor": {
       "Yellow": "#3d3026",
       "Green": "#293a24",
@@ -203,12 +200,7 @@
       "SearchField": {
         "background": "backgroundColor"
       },
-      "SectionHeader.background": "backgroundColor2",
-      "Tab": {
-        "selectedForeground": "foregroundColor",
-        "selectedBackground": "backgroundColor2",
-        "hoverBackground": "backgroundColor2"
-      }
+      "SectionHeader.background": "backgroundColor2"
     },
     "Popup": {
       "background": "backgroundColor",
@@ -238,10 +230,6 @@
       "SearchField": {
         "background": "backgroundColor",
         "borderColor": "backgroundColor"
-      },
-      "Tab": {
-        "selectedForeground": "foregroundColor",
-        "selectedBackground": "backgroundColor2"
       }
     },
     "SearchMatch": {
@@ -309,7 +297,7 @@
       },
       "HeaderTab": {
         "hoverBackground": "#323844",
-        "hoverInactiveBackground": "backgroundColor3",
+        "hoverInactiveBackground": "backgroundColor2",
         "selectedInactiveBackground": "backgroundColor3"
       }
     },
