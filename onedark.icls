@@ -1,9 +1,9 @@
 <scheme name="onedark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-02-20T17:07:29</property>
+    <property name="created">2023-04-05T11:07:50</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2022.3.2.0.0</property>
-    <property name="modified">2023-02-20T17:07:40</property>
+    <property name="ideVersion">2023.1.0.0</property>
+    <property name="modified">2023-04-05T11:08:00</property>
     <property name="originalScheme">onedark</property>
   </metaInfo>
   <colors>
@@ -41,7 +41,7 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="5fafb9" />
     <option name="HTML_TAG_TREE_LEVEL4" value="61afef" />
     <option name="HTML_TAG_TREE_LEVEL5" value="c27fd7" />
-    <option name="INDENT_GUIDE" value="3b4048" />
+    <option name="INDENT_GUIDE" value="1f2329" />
     <option name="INFORMATION_HINT" value="3d424b" />
     <option name="JUPYTER.CELL_UNDER_CARET_COMMAND_MODE_STRIPE_COLOR" value="68aee8" />
     <option name="JUPYTER.CODE_CELL_BACKGROUND" value="2d3139" />
