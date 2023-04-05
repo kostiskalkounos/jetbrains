@@ -1,9 +1,9 @@
 <scheme name="onedark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-04-05T11:07:50</property>
+    <property name="created">2023-04-05T16:10:31</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.1.0.0</property>
-    <property name="modified">2023-04-05T11:08:00</property>
+    <property name="modified">2023-04-05T16:10:43</property>
     <property name="originalScheme">onedark</property>
   </metaInfo>
   <colors>
@@ -294,7 +294,6 @@
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
         <option name="FOREGROUND" value="646a73" />
-        <option name="ERROR_STRIPE_COLOR" value="21252b" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -806,25 +805,21 @@
     <option name="DIFF_CONFLICT">
       <value>
         <option name="BACKGROUND" value="913a3a" />
-        <option name="ERROR_STRIPE_COLOR" value="d9737b" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
         <option name="BACKGROUND" value="353c46" />
-        <option name="ERROR_STRIPE_COLOR" value="5c6370" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
         <option name="BACKGROUND" value="2d4134" />
-        <option name="ERROR_STRIPE_COLOR" value="99bc80" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
         <option name="BACKGROUND" value="2c4957" />
-        <option name="ERROR_STRIPE_COLOR" value="61afef" />
       </value>
     </option>
     <option name="DJANGO_FILTER">
@@ -893,7 +888,6 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="d9737b" />
-        <option name="ERROR_STRIPE_COLOR" value="d9737b" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -929,7 +923,6 @@
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
         <option name="EFFECT_COLOR" value="c99a6e" />
-        <option name="ERROR_STRIPE_COLOR" value="c99a6e" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1124,7 +1117,6 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="353940" />
-        <option name="ERROR_STRIPE_COLOR" value="4d78cc" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1140,7 +1132,6 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="d9bc87" />
-        <option name="ERROR_STRIPE_COLOR" value="d9bc87" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -2005,7 +1996,6 @@
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="c99a6e" />
-        <option name="ERROR_STRIPE_COLOR" value="d9737b" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -2088,7 +2078,6 @@
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="42557b" />
-        <option name="EFFECT_COLOR" value="457dff" />
       </value>
     </option>
     <option name="SLIM_BAD_CHARACTER">
@@ -2205,8 +2194,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="42557b" />
-        <option name="EFFECT_COLOR" value="457dff" />
-        <option name="ERROR_STRIPE_COLOR" value="457dff" />
+        <option name="ERROR_STRIPE_COLOR" value="5e79af" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -2280,27 +2268,23 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="c99a6e" />
-        <option name="ERROR_STRIPE_COLOR" value="c99a6e" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="353940" />
-        <option name="ERROR_STRIPE_COLOR" value="4d78cc" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="42557b" />
-        <option name="EFFECT_COLOR" value="457dff" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="d9737b" />
-        <option name="ERROR_STRIPE_COLOR" value="d9737b" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
