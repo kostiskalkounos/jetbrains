@@ -78,7 +78,6 @@ map <unique> <silent> <leader>D <Action>(ToggleLineBreakpoint)
 map <unique> <silent> <leader>M <Action>(MainMenu)
 map <unique> <silent> <leader>O <Action>(ViewToolButtons)
 map <unique> <silent> <leader>U :set nu! rnu!<cr>
-map <unique> <silent> <leader>Y <Action>(GotoPreviousError)
 map <unique> <silent> <leader>a <Action>(FindInPath)
 map <unique> <silent> <leader>b <Action>(ViewStatusBar)
 map <unique> <silent> <leader>d <Action>(RecentFiles)
@@ -91,7 +90,7 @@ map <unique> <silent> <leader>r <Action>(RenameElement)
 map <unique> <silent> <leader>s <Action>(SearchEverywhere)
 map <unique> <silent> <leader>t <Action>(ActivateTerminalToolWindow)
 map <unique> <silent> <leader>u <Action>(ToggleDistractionFreeMode)
-map <unique> <silent> <leader>y <Action>(GotoNextError)
+map <unique> <silent> <leader>y <Action>(ActivateProblemsViewToolWindow)
 map <unique> <silent> <leader>z <Action>(ExpandRegionRecursively)
 
 map <unique> <silent> g, <Action>(JumpToNextChange)
@@ -102,6 +101,9 @@ map <unique> <silent> gr <Action>(ShowUsages)
 
 map <unique> <silent> <C-i> <Action>(Forward)
 map <unique> <silent> <C-o> <Action>(Back)
+
+map <unique> <silent> <C-j> <Action>(GotoNextError)
+map <unique> <silent> <C-k> <Action>(GotoPreviousError)
 
 nnoremap <unique> <silent> <leader>E vip:sort iu<CR>
 nnoremap <unique> <silent> <leader>e vip:sort u<CR>
