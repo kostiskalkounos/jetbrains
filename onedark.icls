@@ -1,9 +1,9 @@
 <scheme name="Onedark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-04-11T11:49:45</property>
+    <property name="created">2023-04-11T14:40:30</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.1.0.0</property>
-    <property name="modified">2023-04-11T11:49:55</property>
+    <property name="modified">2023-04-11T14:40:40</property>
     <property name="originalScheme">Onedark</property>
   </metaInfo>
   <colors>
@@ -1147,27 +1147,27 @@
     </option>
     <option name="INLAY_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="727782" />
       </value>
     </option>
     <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="727782" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="727782" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="727782" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="727782" />
       </value>
     </option>
     <option name="IVAR">

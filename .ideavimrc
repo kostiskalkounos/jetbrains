@@ -75,6 +75,7 @@ map <unique> <silent> <leader>; <Action>(HideAllWindows)
 map <unique> <silent> <leader><Tab> <Action>(GotoTest)
 map <unique> <silent> <leader><leader> :b#<CR>
 map <unique> <silent> <leader>D <Action>(ToggleLineBreakpoint)
+map <unique> <silent> <leader>G <Action>(Annotate)
 map <unique> <silent> <leader>M <Action>(MainMenu)
 map <unique> <silent> <leader>O <Action>(ViewToolButtons)
 map <unique> <silent> <leader>U :set nu! rnu!<cr>
