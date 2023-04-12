@@ -4,14 +4,13 @@
   "author": "Kostis",
   "colors": {
     "accentColor": "#568AF2",
-    "backgroundColor": "#1f2329",
-    "backgroundColor2": "#282c34",
-    "backgroundColor3": "#282c34",
-    "backgroundColor4": "#3d424b",
+    "backgroundColor": "#282c34",
+    "backgroundColor2": "#2c323c",
+    "backgroundColor3": "#3d424b",
     "infoForeground": "#7e8491",
     "foregroundColor": "#abb2bf",
-    "notificationBackground": "#1f2329",
-    "selectionBackground": "#242931",
+    "notificationBackground": "#282c34",
+    "selectionBackground": "#2c323c",
     "selectionBackground2": "#3e4452",
     "selectionForeground": "#d7dae0"
   },
@@ -45,8 +44,8 @@
     },
     "ActionButton": {
       "hoverBackground": "backgroundColor2",
-      "hoverBorderColor": "backgroundColor",
-      "pressedBackground": "backgroundColor2",
+      "hoverBorderColor": "backgroundColor2",
+      "pressedBackground": "backgroundColor3",
       "pressedBorderColor": "backgroundColor"
     },
     "Button": {
@@ -104,7 +103,7 @@
     "DefaultTabs": {
       "hoverBackground": "backgroundColor2",
       "inactiveUnderlineColor": "backgroundColor",
-      "underlineColor": "#888fce",
+      "underlineColor": "#9388ce",
       "underlineHeight": "1"
     },
     "DragAndDrop": {
@@ -146,7 +145,7 @@
       "visitedForeground": "#6494ed"
     },
     "List": {
-      "selectionBackground": "backgroundColor2",
+      "selectionBackground": "selectionBackground",
       "selectionForeground": "#ffffff"
     },
     "Notification": {
