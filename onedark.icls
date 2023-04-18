@@ -155,7 +155,7 @@
     </option>
     <option name="BASH.VAR_USE">
       <value>
-        <option name="FOREGROUND" value="96c4d3" />
+        <option name="FOREGROUND" value="9cc1cd" />
       </value>
     </option>
     <option name="BLADE_DIRECTIVE">
@@ -634,7 +634,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="96c4d3" />
+        <option name="FOREGROUND" value="9cc1cd" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -654,7 +654,7 @@
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="96c4d3" />
+        <option name="FOREGROUND" value="9cc1cd" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -2141,7 +2141,7 @@
     <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="96c4d3" />
+        <option name="FOREGROUND" value="9cc1cd" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
