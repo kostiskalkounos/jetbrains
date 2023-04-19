@@ -11,7 +11,7 @@
     "cyan": "#56b6c2",
     "frost": "#88abce",
     "green": "#98c379",
-    "ice": "#9cc1cd",
+    "ice": "#96bfd3",
     "magenta": "#c678dd",
     "orange": "#d19a66",
     "pink": "#c9a0c2",
@@ -101,7 +101,9 @@
       "nonEditableBackground": "bg2"
     },
     "CompletionPopup": {
+      "Advertiser.background": "cursor",
       "selectionBackground": "visual",
+      "selectionInactiveBackground": "visual",
       "matchForeground": "magenta"
     },
     "Component": {
@@ -153,7 +155,7 @@
     },
     "Notification": {
       "background": "bg",
-      "borderColor": "purple",
+      "borderColor": "bg",
       "errorBorderColor": "red",
       "errorBackground": "bg",
       "errorForeground": "fg",
@@ -208,7 +210,7 @@
       "passedColor": "green"
     },
     "Popup": {
-      "borderColor": "purple",
+      "borderColor": "bg",
       "Header": {
         "activeBackground": "bg",
         "inactiveBackground": "bg2"
