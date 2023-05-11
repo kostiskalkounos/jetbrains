@@ -9,10 +9,10 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="335027" />
     <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
-    <option name="Bookmark.Mnemonic.iconBackground" value="3d424b" />
+    <option name="Bookmark.Mnemonic.iconBackground" value="3b4048" />
     <option name="Bookmark.Mnemonic.iconBorderColor" value="61afef" />
     <option name="Bookmark.Mnemonic.iconForeground" value="a0a7b4" />
-    <option name="BookmarkMnemonicIcon.background" value="3d424b" />
+    <option name="BookmarkMnemonicIcon.background" value="3b4048" />
     <option name="BookmarkMnemonicIcon.borderColor" value="61afef" />
     <option name="BookmarkMnemonicIcon.foreground" value="a0a7b4" />
     <option name="CARET_COLOR" value="abb2bf" />
@@ -42,7 +42,7 @@
     <option name="HTML_TAG_TREE_LEVEL4" value="61afef" />
     <option name="HTML_TAG_TREE_LEVEL5" value="c678dd" />
     <option name="INDENT_GUIDE" value="282c34" />
-    <option name="INFORMATION_HINT" value="3d424b" />
+    <option name="INFORMATION_HINT" value="3b4048" />
     <option name="JUPYTER.CELL_UNDER_CARET_COMMAND_MODE_STRIPE_COLOR" value="61afef" />
     <option name="JUPYTER.CODE_CELL_BACKGROUND" value="2d3139" />
     <option name="JUPYTER.GUTTER_INPUT_EXECUTION_COUNT" value="61afef" />
@@ -53,7 +53,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="3b4048" />
     <option name="MODIFIED_LINES_COLOR" value="d19a66" />
     <option name="QUESTION_HINT" value="2e4280" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="3d424b" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="3b4048" />
     <option name="RIGHT_MARGIN_COLOR" value="606368" />
     <option name="SELECTED_INDENT_GUIDE" value="606368" />
     <option name="SELECTED_TEARLINE_COLOR" value="2c323c" />
@@ -1256,7 +1256,7 @@
     <option name="JUPYTER.SAUSAGE_BUTTON_APPEARANCE">
       <value>
         <option name="FOREGROUND" value="a0a7b4" />
-        <option name="BACKGROUND" value="3d424b" />
+        <option name="BACKGROUND" value="3b4048" />
       </value>
     </option>
     <option name="JUPYTER_SELECTED_CELL">
@@ -1863,7 +1863,7 @@
     </option>
     <option name="REST.FIXED">
       <value>
-        <option name="BACKGROUND" value="3d424b" />
+        <option name="BACKGROUND" value="3b4048" />
       </value>
     </option>
     <option name="REST.INTERPRETED">

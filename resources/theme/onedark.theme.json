@@ -4,7 +4,6 @@
   "author": "Kostis",
   "colors": {
     "bg": "#282c34",
-    "bg2": "#3d424b",
     "fg": "#abb2bf",
     "fg2": "#cccccc",
     "blue": "#61afef",
@@ -38,14 +37,14 @@
       "inactiveBackground": "bg",
       "disabledBackground": "bg",
       "borderColor": "bg",
-      "separatorColor": "bg2"
+      "separatorColor": "special"
     },
     "List": {
       "background": "cursor"
     },
     "Borders": {
       "color": "cursor",
-      "ContrastBorderColor": "bg2"
+      "ContrastBorderColor": "special"
     },
     "ActionButton": {
       "hoverBorderColor": "cursor",
@@ -59,7 +58,7 @@
       },
       "MnemonicAssigned": {
         "foreground": "fg",
-        "background": "bg2"
+        "background": "special"
       },
       "MnemonicAvailable": {},
       "MnemonicCurrent": {
@@ -69,11 +68,11 @@
     },
     "Button": {
       "foreground": "fg2",
-      "startBorderColor": "bg2",
-      "endBorderColor": "bg2",
-      "startBackground": "bg2",
-      "endBackground": "bg2",
-      "focusedBorderColor": "bg2",
+      "startBorderColor": "special",
+      "endBorderColor": "special",
+      "startBackground": "special",
+      "endBackground": "special",
+      "focusedBorderColor": "special",
       "disabledBorderColor": "bg",
       "default": {
         "foreground": "white",
@@ -82,7 +81,7 @@
         "startBorderColor": "accentColor",
         "endBorderColor": "accentColor",
         "focusColor": "accentColor",
-        "focusedBorderColor": "bg2"
+        "focusedBorderColor": "special"
       }
     },
     "Counter": {
@@ -92,13 +91,13 @@
     "ComboBox": {
       "modifiedItemForeground": "accentColor",
       "ArrowButton": {
-        "background": "bg2",
-        "nonEditableBackground": "bg2",
+        "background": "special",
+        "nonEditableBackground": "special",
         "disabledIconColor": "purple",
         "iconColor": "accentColor"
       },
       "selectionBackground": "visual",
-      "nonEditableBackground": "bg2"
+      "nonEditableBackground": "special"
     },
     "CompletionPopup": {
       "Advertiser.background": "cursor",
@@ -130,9 +129,9 @@
     "EditorTabs": {
       "background": "bg",
       "hoverBackground": "cursor",
-      "underlinedTabBackground": "bg2",
+      "underlinedTabBackground": "special",
       "underlineColor": "accentColor",
-      "underlineHeight": 1,
+      "underlineHeight": 0,
       "inactiveUnderlineColor": "accentColor"
     },
     "Link": {
@@ -145,8 +144,8 @@
       "background": "bg"
     },
     "MemoryIndicator": {
-      "allocatedBackground": "bg2",
-      "usedBackground": "bg2"
+      "allocatedBackground": "special",
+      "usedBackground": "special"
     },
     "NotificationsToolwindow": {
       "newNotification": {
@@ -172,7 +171,7 @@
       }
     },
     "PasswordField": {
-      "background": "bg2"
+      "background": "special"
     },
     "Plugins": {
       "SearchField": {
@@ -184,12 +183,12 @@
       "hoverBackground": "cursor",
       "lightSelectionBackground": "cursor",
       "Button": {
-        "installBorderColor": "bg2",
+        "installBorderColor": "special",
         "installForeground": "fg",
-        "installBackground": "bg2",
+        "installBackground": "special",
         "installFillForeground": "fg",
-        "installFillBackground": "bg2",
-        "installFocusedBackground": "bg2",
+        "installFillBackground": "special",
+        "installFocusedBackground": "special",
         "updateBorderColor": "accentColor",
         "updateForeground": "fg",
         "updateBackground": "accentColor"
@@ -213,7 +212,7 @@
       "borderColor": "bg",
       "Header": {
         "activeBackground": "bg",
-        "inactiveBackground": "bg2"
+        "inactiveBackground": "special"
       }
     },
     "ScrollBar": {
@@ -229,7 +228,7 @@
         "background": "cursor"
       },
       "Tab": {
-        "selectedBackground": "bg2",
+        "selectedBackground": "special",
         "selectedForeground": "fg"
       }
     },
@@ -258,7 +257,7 @@
     },
     "Table": {
       "gridColor": "cursor",
-      "lightSelectionBackground": "bg2"
+      "lightSelectionBackground": "special"
     },
     "TableHeader": {
       "bottomSeparatorColor": "bg"
@@ -314,7 +313,7 @@
     "VersionControl": {
       "FileHistory": {
         "Commit": {
-          "selectedBranchBackground": "bg2"
+          "selectedBranchBackground": "special"
         }
       },
       "GitLog": {
@@ -327,7 +326,7 @@
       "Log": {
         "Commit": {
           "hoveredBackground": "cursor",
-          "currentBranchBackground": "bg2"
+          "currentBranchBackground": "special"
         }
       },
       "RefLabel": {
@@ -336,12 +335,12 @@
     },
     "WelcomeScreen": {
       "SidePanel": {
-        "background": "bg2"
+        "background": "special"
       },
-      "separatorColor": "bg2",
+      "separatorColor": "special",
       "Projects": {
         "background": "cursor",
-        "selectionBackground": "bg2",
+        "selectionBackground": "special",
         "actions": {
           "background": "cursor"
         }
