@@ -59,9 +59,6 @@ nnoremap <unique> <silent> <leader>l <C-w>l
 nnoremap <unique> <leader>I :buffers<CR>
 nnoremap <unique> <silent> <leader>n gt<CR>
 nnoremap <unique> <silent> <leader>p gT<CR>
-nnoremap <unique> <silent> <leader>q :q<CR>
-nnoremap <unique> <silent> <leader>w :w<CR>
-nnoremap <unique> <silent> <leader>x :x<CR>
 nnoremap <unique> <silent> <leader>z za
 vnoremap <unique> <silent> <leader>p p
 
@@ -87,10 +84,12 @@ map <unique> <silent> <leader>g <Action>(ShowIntentionActions)
 map <unique> <silent> <leader>i <Action>(Switcher)
 map <unique> <silent> <leader>m <Action>(ViewMenu)
 map <unique> <silent> <leader>o <Action>(ShowErrorDescription)
+map <unique> <silent> <leader>q <Action>(CloseEditor)
 map <unique> <silent> <leader>r <Action>(RenameElement)
 map <unique> <silent> <leader>s <Action>(SearchEverywhere)
 map <unique> <silent> <leader>t <Action>(ActivateTerminalToolWindow)
 map <unique> <silent> <leader>u <Action>(ToggleDistractionFreeMode)
+map <unique> <silent> <leader>w <Action>(SaveAll)
 map <unique> <silent> <leader>y <Action>(ActivateProblemsViewToolWindow)
 map <unique> <silent> <leader>z <Action>(ExpandRegionRecursively)
 
@@ -128,3 +127,4 @@ vnoremap <unique> <silent> <leader>v "+p
 "
 " defaults delete -g ApplePressAndHoldEnabled
 " defaults write com.jetbrains.intellij ApplePressAndHoldEnabled -bool false
+
