@@ -31,7 +31,7 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="21252b" />
     <option name="DOCUMENTATION_COLOR" value="2c323c" />
     <option name="DOC_COMMENT_LINK" value="61afef" />
-    <option name="ERROR_HINT" value="781732" />
+    <option name="ERROR_HINT" value="40252B" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
@@ -180,7 +180,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="781732" />
+        <option name="BACKGROUND" value="40252B" />
       </value>
     </option>
     <option name="BUILDOUT.KEY">
