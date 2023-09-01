@@ -5,7 +5,6 @@ set commentary
 set highlightedyank
 set hlsearch
 set ideajoin
-set ideastatusicon=disabled
 set ignorecase
 set incsearch
 set noshowmode
