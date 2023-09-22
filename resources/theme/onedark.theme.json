@@ -209,7 +209,7 @@
       "passedColor": "green"
     },
     "Popup": {
-      "borderColor": "bg",
+      "borderColor": "visual",
       "Header": {
         "activeBackground": "bg",
         "inactiveBackground": "special"
