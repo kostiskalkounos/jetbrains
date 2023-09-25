@@ -335,7 +335,7 @@
     },
     "WelcomeScreen": {
       "SidePanel": {
-        "background": "special"
+        "background": "bg"
       },
       "separatorColor": "special",
       "Projects": {
