@@ -120,6 +120,9 @@ nnoremap <unique> <silent> <leader>v "+p
 vnoremap <unique> <silent> <leader>c "+y
 vnoremap <unique> <silent> <leader>v "+p
 
+inoremap <unique> <silent> <space> <space><c-g>u
+
+
 " :actionlist -- list all commands
 " -- Map IDE actions to IdeaVim -- https://jb.gg/abva4t
 " Find more examples here: https://jb.gg/share-ideavimrc
