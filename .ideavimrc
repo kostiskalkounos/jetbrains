@@ -14,7 +14,7 @@ set showcmd
 set smartcase
 set visualbell
 
-let g:highlightedyank_highlight_color = "rgba(50, 56, 68, 255)"
+let g:highlightedyank_highlight_color = "rgba(73, 77, 100, 240)"
 let g:highlightedyank_highlight_duration = "150"
 
 nnoremap <unique> <silent> [b :bp<CR>
