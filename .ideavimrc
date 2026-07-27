@@ -12,7 +12,7 @@ set incsearch
 set noshowmode
 set notimeout
 set number relativenumber
-set showcmd
+set noshowcmd
 set smartcase
 set visualbell
 
